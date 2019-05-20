@@ -1,0 +1,26 @@
+{
+    "name": "Bootstrap-learning",
+    "version": "1.0.0",
+    "description": "Bootstrap learn",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "bootstrap"
+    ],
+    "author": "ChenC",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "koa": "2.7.0",
+        "koa-bodyparser": "3.2.0",
+        "koa-router": "7.0.0",
+        "mime": "^2.4.2",
+        "mz": "2.4.0",
+        "nunjucks": "^3.2.0"
+    }
+}
